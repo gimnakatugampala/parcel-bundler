@@ -1,0 +1,17 @@
+{
+  "name": "parcel-bundler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.2.5",
+    "axios": "^0.21.1",
+    "jquery": "^3.6.0"
+  }
+}
